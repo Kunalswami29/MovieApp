@@ -45,7 +45,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-.search-result .movie-info button {
+ .movie-info button {
   margin: 20px 10px;
   background: #21ba45;
   color: #fff;
@@ -59,7 +59,7 @@ body {
   display: flex;
 }
 .search-result img {
-  height: 150px;
+  height: 120px;
 }
 .search-result > div span {
   font-size: 20px;
@@ -78,7 +78,7 @@ body {
 .search-result .movie-info button:hover {
   cursor: pointer;
 }
-#search-btn {
+.search-btn {
   background: #f2711c;
   height: 43px;
   color: #fff;
